@@ -11,6 +11,7 @@ HABILIDADES:
           
 
 SOFTSKILLS:
+
 ∎ Inglês Básico(Estudo Diariamente)
 ∎ Comunicação em Equipe
 
