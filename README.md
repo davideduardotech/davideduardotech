@@ -22,6 +22,7 @@ Programador com 18 anos de Idade que curte Musculação e Empreender criando sol
 
 
 CONHECIMENTOS QUE TENHO:
+
 ∎ Framework Flask/SQLAlchemy(Criação de Sites, APIs)
 ∎ Framework PyQt5(Criar Aplicativos Desktops)
 ∎ Framework pyTelegramBotAPI/Telethon(Bots Telegram Com Python)
