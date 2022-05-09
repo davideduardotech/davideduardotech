@@ -7,8 +7,7 @@
 
 
 HABILIDADES:
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+<img src="https://img.icons8.com/color/48/000000/python--v1.png" width="40" height="40"/>
           
 ∎ HTML/CSS
 ∎ Mysql, sqlite3...
