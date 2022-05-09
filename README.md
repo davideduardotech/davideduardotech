@@ -36,4 +36,4 @@ Programador com 18 anos de Idade que curte Musculação e Empreender criando sol
 Conheça um dos Aplicativos Desktop que Desenvolvi 100% com Python(+3.233 visualizações): https://youtu.be/olpna_Sb1bk
 
 
-Todos os dias Busco Aprender Cada Vez mais, e seria maravilhoso fazer parte da Equipe de Vocês, Fico no aguardo de uma resposta e desejo que vocês tenham um excepcional dia, ate logo... 😉
+Todos os dias Busco Aprender Cada Vez mais 😉
