@@ -1,5 +1,5 @@
-# David, Programador Python a mais de 4 anos
-### | CURSO: Análise e Desenvolvimento de sistemas
+# David, Programador Python
+| CURSO: Análise e Desenvolvimento de sistemas
 
 ![Estatísticas do GitHub do Anurag](https://github-readme-stats.vercel.app/api?username=davideduardotech&show_icons=true&theme=highcontrast)
 
@@ -7,6 +7,9 @@
 
 
 HABILIDADES:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+          
 ∎ HTML/CSS
 ∎ Mysql, sqlite3...
 ∎ Python(Domino Python e suas Frameworks/Bibliotecas)
