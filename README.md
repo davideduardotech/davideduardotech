@@ -26,7 +26,7 @@ Técnico em Análise e Desenvolvimento de sistemas
 ∎ Inglês Básico(Estudo Diariamente)
 ∎ Comunicação em Equipe
 
-
+ 
 ### SOBRE MIM:
 Programador com 18 anos de Idade que curte Musculação e Empreender criando soluções que irá facilitar a vida de outras pessoas usando minhas habilidades na Programação(Com Python e suas Frameworks)
 
