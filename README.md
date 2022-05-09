@@ -1,4 +1,4 @@
-# David, Programador Python
+# Olá, 🙋‍♂️ Eu Sou David Programador a 3 Anos
 | CURSO: Análise e Desenvolvimento de sistemas
 
 ![Estatísticas do GitHub do Anurag](https://github-readme-stats.vercel.app/api?username=davideduardotech&show_icons=true&theme=highcontrast)
