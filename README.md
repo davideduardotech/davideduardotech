@@ -1,5 +1,5 @@
 # Olá 👋, Eu Sou David 
-| CURSO: Análise e Desenvolvimento de sistemas
+Técnico em Análise e Desenvolvimento de sistemas
 
 ![Estatísticas do GitHub do Anurag](https://github-readme-stats.vercel.app/api?username=davideduardotech&show_icons=true&theme=highcontrast)
 
