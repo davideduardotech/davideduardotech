@@ -6,13 +6,13 @@
 
 
 
-HABILIDADES:
+### HABILIDADES:
 
 <img src="https://img.icons8.com/color/48/000000/python--v1.png" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/css3.png" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="40" height="40"/> <img src="https://img.icons8.com/ios/50/000000/flask.png" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="40" height="40"/> <img src="images/qt_design.svg" width="40" height="40"/> <img src="images/sqlite.svg" width="40" height="40"/> 
  
 
 
-CONHECIMENTOS QUE TENHO:
+### CONHECIMENTOS QUE TENHO:
 
 ∎ Framework Flask/SQLAlchemy(Criação de Sites, APIs)
 ∎ Framework PyQt5(Criar Aplicativos Desktops)
@@ -21,13 +21,13 @@ CONHECIMENTOS QUE TENHO:
 
 
 
-SOFTSKILLS:
+### SOFTSKILLS:
 
 ∎ Inglês Básico(Estudo Diariamente)
 ∎ Comunicação em Equipe
 
 
-SOBRE MIM:
+### SOBRE MIM:
 Programador com 18 anos de Idade que curte Musculação e Empreender criando soluções que irá facilitar a vida de outras pessoas usando minhas habilidades na Programação(Com Python e suas Frameworks)
 
 
