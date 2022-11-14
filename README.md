@@ -2,7 +2,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+David+Eduardo;I'm+19+years+old;I'm+from+Brazil;I+Graduated+Systems+Analyst+and+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=36BCF7FF&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+David+Eduardo;I'm+19+years+old;I'm+from+Brazil;Graduated+Systems+Analyst+and+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 # Olá 👋, Eu Sou David 
 Técnico em Análise e Desenvolvimento de sistemas
