@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=150241&height=120&section=header"/>
+
 # Olá 👋, Eu Sou David 
 Técnico em Análise e Desenvolvimento de sistemas
 
