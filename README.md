@@ -17,6 +17,7 @@ Técnico em Análise e Desenvolvimento de sistemas
 ∎ Criação de Scripts de Automação com Python(Excel, Envio de Emails, Web Scripting...) | Python<br>
 ∎ Criação de API's rest para Ecommerce, CRUDs[Create, Read, Update, Delete]... | Node JS<br>
 ∎ Criação de Sites Fullstack, APIs,CRUDs[Create, Read, Update, Delete] | Flask<br>
+∎ Criação de Sites usando HTML/CSS e Javascript<br>
 ∎ Criar Aplicativos Desktops | PyQt5(Python)<br>
 ∎ Criar Bots e Automação para Telegram Com Python | pyTelegramBotAPI & Telethon<br>
 ∎ Gráficos Com Python, usado pra Análise de dados | Framework Matplotlib, Pandas, Numpy...
