@@ -14,17 +14,18 @@ Técnico em Análise e Desenvolvimento de sistemas
  
  
 ### CONHECIMENTOS QUE TENHO:
-
-∎ Framework Flask/SQLAlchemy(Criação de Sites, APIs)
-∎ Framework PyQt5(Criar Aplicativos Desktops)
-∎ Framework pyTelegramBotAPI/Telethon(Bots Telegram Com Python)
-∎ Framework Matplotlib(Gráficos Com Python, usado pra Análise de dados)
+∎ Criação de Scripts de Automação com Python(Excel, Envio de Emails, Web Scripting...) | Python<br>
+∎ Criação de API's rest para Ecommerce, CRUDs[Create, Read, Update, Delete]... | Node JS<br>
+∎ Criação de Sites Fullstack, APIs,CRUDs[Create, Read, Update, Delete] | Flask<br>
+∎ Criar Aplicativos Desktops | PyQt5(Python)<br>
+∎ Criar Bots e Automação para Telegram Com Python | pyTelegramBotAPI & Telethon<br>
+∎ Gráficos Com Python, usado pra Análise de dados | Framework Matplotlib, Pandas, Numpy...
 
 
 
 ### SOFTSKILLS:
 
-∎ Inglês Básico(Estudo Diariamente)
+∎ Inglês Básico<br>
 ∎ Comunicação em Equipe
 
  
