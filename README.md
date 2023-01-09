@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=36BCF7FF&font=Sora&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+David+Eduardo;I'm+19+years+old;I'm+from+Brazil;Graduated+Systems+Analyst+and+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 # Olá 👋, Eu Sou David 
-FORMAÇÃO ACADEMICA: 
+FORMAÇÃO ACADEMICA: <br>
 ∎ Técnico em Análise e Desenvolvimento de sistemas
 
 ![Estatísticas do GitHub do Anurag](https://github-readme-stats.vercel.app/api?username=davideduardotech&show_icons=true&theme=highcontrast)
