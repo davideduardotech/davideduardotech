@@ -31,13 +31,8 @@ Técnico em Análise e Desenvolvimento de sistemas
 
  
 ### SOBRE MIM:
-Programador com 18 anos de Idade que curte Musculação e Empreender criando soluções que irá facilitar a vida de outras pessoas usando minhas habilidades na Programação(Com Python e suas Frameworks)
+Sou um programador Python Fullstack com experiência em criação de API's, automações com Python e CRUD's para banco de dados. Além disso, possuo habilidades em desenvolvimento de interfaces com HTML/CSS e JavaScript.
 
+Meus objetivos profissionais incluem continuar me desenvolvendo como programador e adquirir novas habilidades para poder oferecer soluções inovadoras e eficientes para os meus clientes.
 
-
-
-Conheça um dos Aplicativos Desktop que Desenvolvi 100% com Python(+3.233 visualizações): https://youtu.be/olpna_Sb1bk
-
-
-Todos os dias Busco Aprender Cada Vez mais 😉
-
+Minha carreira até aqui inclui trabalhos em projetos de diversos tamanhos e setores, o que me permitiu adquirir experiência valiosa e flexibilidade em diversas áreas de desenvolvimento de software. Acredito que minhas habilidades e experiência podem contribuir positivamente para qualquer equipe em que eu venha a trabalhar.
