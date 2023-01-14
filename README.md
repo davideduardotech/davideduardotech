@@ -35,3 +35,8 @@ Sou um programador Python Fullstack com experiência em criação de API's, auto
 Meus objetivos profissionais incluem continuar me desenvolvendo como programador e adquirir novas habilidades para poder oferecer soluções inovadoras e eficientes para os meus clientes.
 
 Minha carreira até aqui inclui trabalhos em projetos de diversos tamanhos e setores, o que me permitiu adquirir experiência valiosa e flexibilidade em diversas áreas de desenvolvimento de software. Acredito que minhas habilidades e experiência podem contribuir positivamente para qualquer equipe em que eu venha a trabalhar.
+
+
+<div style="baclground-color: red;">
+<img src="https://img.icons8.com/color/512/linkedin-circled.png" width="40" height="40"/> Linkedin: https://www.linkedin.com/in/davideduardofullstack/
+</div>
