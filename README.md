@@ -3,6 +3,7 @@
 # Olá 👋, Eu Sou David 
 FORMAÇÃO ACADEMICA: <br>
 ∎ Técnico em Análise e Desenvolvimento de sistemas
+<br>Meu Linkedin: https://www.linkedin.com/in/davideduardofullstack/
 
 
 
@@ -37,6 +38,3 @@ Meus objetivos profissionais incluem continuar me desenvolvendo como programador
 Minha carreira até aqui inclui trabalhos em projetos de diversos tamanhos e setores, o que me permitiu adquirir experiência valiosa e flexibilidade em diversas áreas de desenvolvimento de software. Acredito que minhas habilidades e experiência podem contribuir positivamente para qualquer equipe em que eu venha a trabalhar.
 
 
-<div style="baclground-color: red;">
-<img src="https://img.icons8.com/color/512/linkedin-circled.png" width="40" height="40"/> Linkedin: https://www.linkedin.com/in/davideduardofullstack/
-</div>
