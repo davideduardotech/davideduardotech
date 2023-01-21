@@ -14,13 +14,14 @@ FORMAÇÃO ACADEMICA: <br>
  
  
 ### CONHECIMENTOS QUE TENHO:
-∎ Criação de Scripts de Automação com Python(Excel, Envio de Emails, Web Scripting...) | Python<br>
-∎ Criação de API's rest para Ecommerce, CRUDs[Create, Read, Update, Delete]... | Node JS<br>
-∎ Criação de Sites Fullstack, APIs,CRUDs[Create, Read, Update, Delete] | Flask<br>
+∎ Criação de Dashboards para Análise de Dados | Python, Dash, Plotly, Numpy, Pandas<br>
+∎ Criação de Scripts de Automação com Python(Excel, Envio de Emails, Web Scripting...) | Python, Requests, Selenium...<br>
+∎ Criação de API's rest para Ecommerce, CRUDs[Create, Read, Update, Delete]... | Node JS, Node JS<br>
+∎ Criação de Sites Fullstack, APIs,CRUDs[Create, Read, Update, Delete] | Python, Flask<br>
 ∎ Criação de Sites usando HTML/CSS e Javascript<br>
-∎ Criar Aplicativos Desktops | PyQt5(Python)<br>
-∎ Criar Bots e Automação para Telegram Com Python | pyTelegramBotAPI & Telethon<br>
-∎ Gráficos Com Python, usado pra Análise de dados | Framework Matplotlib, Pandas, Numpy...
+∎ Criar Aplicativos Desktops | Python, PyQt5<br>
+∎ Criar Bots e Automação para Telegram Com Python | Python, pyTelegramBotAPI, Telethon<br>
+∎ Gráficos Com Python, usado pra Análise de dados | Framework Matplotlib, Plotly, Pandas, Numpy...
 
 
 
