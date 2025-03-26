@@ -4,6 +4,7 @@
 FORMAÇÃO ACADEMICA: <br>
 ∎ Técnico em Análise e Desenvolvimento de sistemas
 <br>Meu Linkedin: https://www.linkedin.com/in/davideduardofullstack/
+<br>Meu WhatsApp: https://wa.me/5581992503142
 
 
 
